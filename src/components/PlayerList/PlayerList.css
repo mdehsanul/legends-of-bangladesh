@@ -1,0 +1,9 @@
+.playerList-container {
+  display: flex;
+  padding-top: 20px;
+}
+.playerDetails-container {
+  width: 60%;
+  margin-left: 100px;
+  border-right: 3px solid red;
+}

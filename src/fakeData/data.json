@@ -1,0 +1,161 @@
+[{
+    "id": 1,
+    "name": "Mashrafe Bin Mortaza",
+    "img":"https://ss.thgim.com/cricket/article27263506.ece/alternates/FREE_380/mashrafe-mortazajpg",
+    "category": "A+",
+    "salary": 450000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+    }, {
+    "id": 2,
+    "name": "Tamim Iqbal Khan",
+    "img":"https://ss.thgim.com/cricket/article27263543.ece/alternates/FREE_330/tamim-iqbaljpg",
+    "category": "A+",
+    "salary": 650000,
+    "country":"Bangladesh",
+    "role": "Batsman"
+  }, {
+    "id": 3,
+    "name": "Mushfiqur Rahim ",
+    "img":"https://ss.thgim.com/cricket/article27263882.ece/alternates/FREE_330/mushfiqur-rahimjpg",
+    "category": "A+",
+    "salary": 620000,
+    "country":"Bangladesh",
+    "role": "Wicket-keeper/Batsman"
+  }, {
+    "id": 4,
+    "name": "Mahmudullah Riyad",
+    "img":"https://ss.thgim.com/cricket/article27263938.ece/alternates/FREE_330/mahmudullahjpg",
+    "category": "A+",
+    "salary": 430000,
+    "country":"Bangladesh",
+    "role": "All-rounder"
+  }, {
+    "id": 5,
+    "name": "Shakib Al Hasan",
+    "img":"https://ss.thgim.com/cricket/article27264273.ece/alternates/FREE_330/shakib-al-hasanjpg",
+    "category": "A+",
+    "salary": 400000,
+    "country":"Bangladesh",
+    "role": "All-rounder"
+  }, {
+    "id": 6,
+    "name": "Soumya Sarkar",
+    "img":"https://ss.thgim.com/cricket/article27263858.ece/alternates/FREE_330/soumya-sarkarjpg",
+    "category": "B",
+    "salary": 300000,
+    "country":"Bangladesh",
+    "role": "Batsman"
+  }, {
+    "id": 7,
+    "name": "Liton Kumar Das",
+    "img":"https://ss.thgim.com/cricket/article27263651.ece/alternates/FREE_330/liton-dasjpg",
+    "category": "B",
+    "salary": 275000,
+    "country":"Bangladesh",
+    "role": "Wicket-keeper/Batsman"
+  }, {
+    "id": 8,
+    "name": "Mosaddek Hossain",
+    "img":"https://ss.thgim.com/cricket/article27264377.ece/alternates/FREE_330/mosaddek-hasanjpg",
+    "category": "C",
+    "salary": 150000,
+    "country":"Bangladesh",
+    "role": "Batsman"
+  }, {
+    "id": 9,
+    "name": "Mustafizur Rahman",
+    "img":"https://ss.thgim.com/cricket/article27264533.ece/alternates/FREE_330/mustafizur-rahmanjpg",
+    "category": "C",
+    "salary": 300000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 10,
+    "name": "Mehedi Hasan Miraz",
+    "img":"https://ss.thgim.com/cricket/article27264489.ece/alternates/FREE_330/mehdi-hasanjpg",
+    "category": "D",
+    "salary": 275000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 11,
+    "name": "Taijul Islam",
+    "img":"https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-462981464-e1518000330502.jpg",
+    "category": "D",
+    "salary": 250000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 12,
+    "name": "Imrul Kayes",
+    "img":"https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1493.png",
+    "category": "B",
+    "salary": 200000,
+    "country":"Bangladesh",
+    "role": "Batsman"
+  }, {
+    "id": 13,
+    "name": "Mohammad Mithun",
+    "img":"https://ss.thgim.com/cricket/article27264289.ece/alternates/FREE_330/mohammad-mithunjpg",
+    "category": "C",
+    "salary": 150000,
+    "country":"Bangladesh",
+    "role": "Batsman"
+  }, {
+    "id": 14,
+    "name": "Sabbir Rahman",
+    "img":"https://ss.thgim.com/cricket/article27264371.ece/alternates/FREE_330/sabbir-rahmanjpg",
+    "category": "B",
+    "salary": 200000,
+    "country":"Bangladesh",
+    "role": "Batsman"
+  }, {
+    "id": 15,
+    "name": "Abu Jayed",
+    "img":"https://ss.thgim.com/cricket/article27264577.ece/alternates/FREE_330/abu-jayedjpg",
+    "category": "D",
+    "salary": 100000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 16,
+    "name": "Taskin Ahmed",
+    "img":"https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg",
+    "category": "C",
+    "salary": 150000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 17,
+    "name": "Rubel Hossain",
+    "img":"https://ss.thgim.com/cricket/article27264498.ece/alternates/FREE_330/rubel-hossainjpg",
+    "category": "C",
+    "salary": 150000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 18,
+    "name": "Abdur Razzak",
+    "img":"https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-477551705_Fotor-e1520257882788.jpg",
+    "category": "C",
+    "salary": 150000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 19,
+    "name": "Mohammad Saifuddin",
+    "img":"https://ss.thgim.com/cricket/article27264388.ece/alternates/FREE_330/mohammed-saifuddinjpg",
+    "category": "C",
+    "salary": 150000,
+    "country":"Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 20,
+    "name": "Nasir Hossain",
+    "img":"https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-514185100-e1520258816642.jpg",
+    "category": "D",
+    "salary": 75000,
+    "country":"Bangladesh",
+    "role": "Batsman"
+  }]
